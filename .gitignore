@@ -1,0 +1,4 @@
+src/config.py
+*.db
+src/__pycache__/
+src/.idea/
